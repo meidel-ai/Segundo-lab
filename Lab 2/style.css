@@ -61,3 +61,19 @@ body {
     transform: scale(1.1);
     z-index: 2;
 }
+
+footer{
+    text-align: center;
+    display: flex;
+    height: 200px;
+    background-color: bisque;
+    align-items: center;
+    padding: 5%;
+    justify-content: space-between;
+}
+
+footer img{
+    
+    width: 100px;
+    height: 100px;
+}
